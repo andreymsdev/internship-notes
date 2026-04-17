@@ -15,4 +15,3 @@ This space serves as my "external brain" for documenting complex concepts and ha
 * **Cloud Security:** IaaS, PaaS, SaaS models, Prisma Cloud.
 
 ---
-*"Documenting the process is as important as the process itself."*
